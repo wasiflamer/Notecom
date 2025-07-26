@@ -1,8 +1,8 @@
 # Notecom
 
-<img width="200" height="300" alt="screens" src="https://github.com/user-attachments/assets/e78412b7-0dd1-4917-a756-33b552a248e6" />
-<img width="200" height="300" alt="vlcsnap-00001" src="https://github.com/user-attachments/assets/8fbb862e-1604-4c00-bed0-763058eb01f2" />
-<img width="200" height="300" alt="vlcsnap-00002" src="https://github.com/user-attachments/assets/56fc6eb8-1a30-4bb1-bdd0-8e088e516590" />
+<img width="200" height="400" alt="screens" src="https://github.com/user-attachments/assets/e78412b7-0dd1-4917-a756-33b552a248e6" />
+<img width="200" height="400" alt="vlcsnap-00001" src="https://github.com/user-attachments/assets/8fbb862e-1604-4c00-bed0-763058eb01f2" />
+<img width="200" height="400" alt="vlcsnap-00002" src="https://github.com/user-attachments/assets/56fc6eb8-1a30-4bb1-bdd0-8e088e516590" />
 
 
 Visiually Stunning Note-Taking App with Dynamic Colors, Full CRUD
